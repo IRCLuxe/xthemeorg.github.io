@@ -1,4 +1,4 @@
-# xthemeorg.github.io
-The Xtheme.org website
+# ircluxe.github.io
+The IRCLuxe.Ru website
 
-Welcome to the Xtheme Development Group website.  Please stay tuned for content.
+Welcome to the IRCLuxe.Ru Development Group website.  Please stay tuned for content.
